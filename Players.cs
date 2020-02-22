@@ -68,8 +68,6 @@ namespace _12_Coin_Nim
             return "Tails";
         }
 
-
-        //Split this up, too much sauce
         private static void CoinFlip(String pV)
         {
             Thread.Sleep(800);
