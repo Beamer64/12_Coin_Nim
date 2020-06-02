@@ -10,7 +10,7 @@ namespace _12_Coin_Nim
             Console.Write("                       -------------------------------------------------------------------\n");
             Console.Write("                      |              Welcome to Nim! The rules are simple.                |\n");
             Console.Write("                      |                                                                   |\n");
-            Console.Write("                      | 1.) There are 12 coins presented: * * * * * * * * * * * *         |\n");
+            Console.Write("                      | 1.) There are X number of coins presented: * * * * * * *          |\n");
             Console.Write("                      | 2.) Each player will take turns removing Either 1, 2 or 3 coins.  |\n");
             Console.Write("                      | 3.) The goal is to be the player that removes the very last coin. |\n");
             Console.Write("                      |                                                                   |\n");
