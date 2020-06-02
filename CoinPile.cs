@@ -24,7 +24,7 @@ namespace _12_Coin_Nim
         }
 
         public static void RemoveCoins(int coinNum)
-        {
+        {   
             if (coinNum > 3 || coinNum < 1)
             {
                 Menu.EmptySpace();

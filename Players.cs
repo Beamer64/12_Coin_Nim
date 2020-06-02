@@ -45,7 +45,7 @@ namespace _12_Coin_Nim
         public static void DetermineStartingPlayer()
         {
             String playerValue = CoinValue();
-            
+
             Console.Clear();
             Console.WriteLine("Lets see who will go first by flipping a coin! Best out of 5.");
 
