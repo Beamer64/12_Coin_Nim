@@ -8,3 +8,5 @@ more than 1 pile. I've decided to make it more interesting by allowing the playe
 starting pile in efforts to defeat my AI (very tough).
 
 #### I hope you enjoy playing and I plan to add more mechanics and UI elements in the future to enhance the game play.
+
+#### Please feel free to download the .exe to play for yourself!
